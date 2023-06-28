@@ -1,0 +1,15 @@
+button{
+    width:300px !important;
+    padding:20px;
+    margin:50px;
+    border-radius:20px;
+    font-size:20px;
+    text-decoration: none;
+background-color: white;
+border: black solid;
+}
+
+body{
+    background-size:cover;
+    background-position: center;
+}
